@@ -1,0 +1,33 @@
+# Data-Analysis-Project---Vehicle-Collision
+Analysing Motor Vehicle Collisions in New York City – Using NYC open data’s Dataset
+
+
+In this Data Science application, I’ll be making a web application that analyses the motor vehicle
+collisions happening in the New York city.
+
+For this project I’ll be using NYC open data’s motor vehicle collisions dataset. The link for the
+dataset can be found here 
+
+----------------------------------------------------------------------------------------------------------------
+**Presentation Link - 
+
+https://docs.google.com/presentation/d/1G-MYYGskXvv9eQPDRS1P9KdFd5YQafHm/edit?usp=sharing&ouid=108526649253723809894&rtpof=true&sd=true
+
+----------------------------------------------------------------------------------------------------------------
+** Dataset Link - 
+
+https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95 
+
+
+Click on Export button and download the csv file.
+
+
+----------------------------------------------------------------------------------------------------------------
+**Youtube Link - 
+
+https://youtu.be/mUPApTyp4-M
+
+----------------------------------------------------------------------------------------------------------------
+Programming Requirements: 
+
+You need to have PyCharm or any other suitable IDE for running this data science application
